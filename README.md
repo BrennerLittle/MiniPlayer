@@ -1,6 +1,6 @@
 # MiniPlayer
 A small overlay video player built in electron
-This program is written in electron. It is meant to overlay borderless windowed games. It is a very early version and most of the keyboard shortcuts don't quite make sense. Any feedback or contributions would be very helpful. I hope you enjoy the software.
+This program is written in electron. It is meant to overlay borderless windowed games. It is a very early version and most of the keyboard shortcuts don't quite make sense. Any feedback or contributions would be very helpful. I hope you enjoy the software.  
 CommandOrControl+y+w+q  
 upper left screen  
 CommandOrControl+y+s+d  
